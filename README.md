@@ -1,2 +1,2 @@
 # hello-world
-Pertama kali menciba github
+Pertama kali mencoba github
